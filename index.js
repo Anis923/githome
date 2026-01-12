@@ -1,4 +1,4 @@
-console.log('Welcome to the playlist');
-for(var i = 0;i<5;i++){
-    console.log("anish")
+console.log('Welcome to git');
+for (var i = 0 ;i<5;i++){
+    console.log('Anish Raja')
 }
